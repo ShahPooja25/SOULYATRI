@@ -1,0 +1,21 @@
+# Firebase credentials
+soulyatri.json
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment (if using one)
+env/
+venv/
+
+# VSCode and OS files
+.vscode/
+.DS_Store
+
+# Render build artifacts (optional but safe)
+build/
+dist/
