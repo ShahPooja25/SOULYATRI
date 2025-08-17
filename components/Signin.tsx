@@ -1,6 +1,6 @@
 // components/Signin.tsx
 import { SigninCard } from "../app/bits/Signincard";
-import authHeroImg from "../public/assets/hero.png";
+import authHeroImg from "../public/hero.png";
 
 const SigninPage = () => {
   return (
